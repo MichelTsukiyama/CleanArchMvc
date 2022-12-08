@@ -1,4 +1,4 @@
-# Projeto Clean Architeture
+# Projeto Clean Architecture
 
 -----
 
